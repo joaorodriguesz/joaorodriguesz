@@ -1,4 +1,5 @@
 ### Me chamo João Paulo
+:books: Sou acadêmico o curso de ciência da computação 
 
 <div>
   <a href="https://github.com/JoaoPauloMRodrigues">
