@@ -1,5 +1,5 @@
 ### Me chamo João Paulo
-:books: Sou acadêmico o curso de ciência da computação 
+:books: Acadêmico de ciência da computação | UNESC
 
 <div>
   <a href="https://github.com/JoaoPauloMRodrigues">
