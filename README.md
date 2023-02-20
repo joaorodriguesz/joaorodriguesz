@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/joaorodriguesz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloMRodrigues&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloMRodrigues&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="joao-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
