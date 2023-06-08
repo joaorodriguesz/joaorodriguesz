@@ -1,5 +1,5 @@
 ### :space_invader: May the Force be with you!
-:books: Acadêmico de ciência da computação | UNESC
+:books: Computer science academic | UNESC
 
 <div>
   <a href="https://github.com/joaorodriguesz">
