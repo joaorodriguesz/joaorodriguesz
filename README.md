@@ -1,26 +1,67 @@
-### :space_invader: May the Force be with you!
-:books: Computer science academic | UNESC
 
-<div>
-  <a href="https://github.com/joaorodriguesz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="joao-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="joao-ts" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img align="center" alt="joao-ts" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-   <img align="center" alt="joao-php" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="joao-php" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-   <img align="center" alt="joao-mysql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+<!--  https://joaorodriguesz.github.io/portfolio/  -->
+<p align="center">
+ 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/joaorodriguesz/joaorodriguesz"/> 
+ <!-- <img src="https://badges.pufler.dev/years/joaorodriguesz"/> -->
+ <img src="https://badges.pufler.dev/repos/joaorodriguesz"/>
+ <img src="https://badges.pufler.dev/commits/monthly/joaorodriguesz" />
 
-  ##
-  
-  <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m-rodrigues-236368209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>  
-  
-  
+</p>
+
+<!-- <p align="center">
+I am currently a student enrolled in the Computer Science course at the University of Extremo Sul Catarinense (UNESC). I've been dedicating the last two years to the development area, fueled by my unshakable passion and constant willingness to learn and work with different technologies and domains. I take great pleasure in exploring new technological tools and applying them effectively to solve real-world problems. Every day, I've been trying even harder to deepen my knowledge in this fascinating area.
+</p>   -->
+
+<h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+<p align="center">
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: joaopaulomoreirarodrigues@gmail.com@gmail.com">
+ <img src="https://img.shields.io/badge/-joaopaulomoreirarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulomoreirarodrigues@gmail.com@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-m-rodrigues-236368209/">
+ <img src="https://img.shields.io/badge/-joaorodriguesz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-m-rodrigues-236368209/"/>
+</a>
+</a>
+</p>
+
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=joaorodriguesz&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=joaorodriguesz&theme=redical">
+</p> 
+<hr>
