@@ -1,15 +1,4 @@
-
-<!--  https://joaorodriguesz.github.io/portfolio/  -->
 <p align="center">
- 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/joaorodriguesz/joaorodriguesz"/> 
- <!-- <img src="https://badges.pufler.dev/years/joaorodriguesz"/> -->
- <img src="https://badges.pufler.dev/repos/joaorodriguesz"/>
- <img src="https://badges.pufler.dev/commits/monthly/joaorodriguesz" />
-
-</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -43,21 +32,12 @@
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
 <br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=joaorodriguesz&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=joaorodriguesz&theme=redical">
-</p> 
-<hr>
+<div>
+  <a href="https://github.com/JoaoPauloMRodrigues">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloMRodrigues&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloMRodrigues&layout=compact&langs_count=7&theme=onedark"/>
+</div>
