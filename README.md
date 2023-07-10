@@ -11,10 +11,6 @@
 
 </p>
 
-<p align="center">
-I am currently a student enrolled in the Computer Science course at the University of Extremo Sul Catarinense (UNESC). I've been dedicating the last two years to the development area, fueled by my unshakable passion and constant willingness to learn and work with different technologies and domains. I take great pleasure in exploring new technological tools and applying them effectively to solve real-world problems. Every day, I've been trying even harder to deepen my knowledge in this fascinating area.
-</p>  
-
 <h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
