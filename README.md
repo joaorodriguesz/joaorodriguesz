@@ -36,8 +36,8 @@
 </h2>
  
 <br>
-<div>
+<div align="center">
   <a href="https://github.com/JoaoPauloMRodrigues">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
