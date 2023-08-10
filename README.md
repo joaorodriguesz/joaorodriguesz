@@ -7,6 +7,20 @@
 
 <p align="center">
 
+
+👋 Olá! Sou um acadêmico de Ciência da Computação apaixonado por desenvolvimento Full Stack. Minha jornada inclui experiência em linguagens como PHP, Java, Node.js, JavaScript (JS) e TypeScript (TS), juntamente com frameworks notáveis como AngularJS, Spring e React.
+
+🛢️ Trabalho com sistemas de gerenciamento de banco de dados, incluindo Oracle, MySQL, PostgreSQL e MongoDB, garantindo soluções sólidas para armazenamento e recuperação de dados.
+
+🤝 Acredito na força do trabalho em equipe e sou habilidoso na organização de projetos, garantindo que metas sejam atingidas de forma coordenada e eficaz.
+
+🔍 Minha abordagem é sempre analítica, buscando alternativas e melhorias que possam otimizar o desempenho e aumentar a produtividade.
+
+🚀 Estou em constante busca por avanços tecnológicos, pois acredito que a inovação é essencial. Animado para explorar novas tecnologias e oportunidades.
+
+🌐 Conecte-se comigo para compartilharmos conhecimento e explorar colaborações empolgantes, contribuindo juntos para o mundo da tecnologia!
+
+
 <h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
