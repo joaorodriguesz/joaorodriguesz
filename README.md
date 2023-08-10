@@ -1,13 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/JoaoPauloMRodrigues">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-
-<p align="center">
-
-
 👋 Olá! Sou um acadêmico de Ciência da Computação apaixonado por desenvolvimento Full Stack. Minha jornada inclui experiência em linguagens como PHP, Java, Node.js, JavaScript (JS) e TypeScript (TS), juntamente com frameworks notáveis como AngularJS, Spring e React.
 
 🛢️ Trabalho com sistemas de gerenciamento de banco de dados, incluindo Oracle, MySQL, PostgreSQL e MongoDB, garantindo soluções sólidas para armazenamento e recuperação de dados.
@@ -20,6 +11,13 @@
 
 🌐 Conecte-se comigo para compartilharmos conhecimento e explorar colaborações empolgantes, contribuindo juntos para o mundo da tecnologia!
 
+<div align="center">
+  <a href="https://github.com/JoaoPauloMRodrigues">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesz&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+<p align="center">
 
 <h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
 
