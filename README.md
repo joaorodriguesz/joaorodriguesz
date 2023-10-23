@@ -9,7 +9,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/joaorodriguesz/joaorodriguesz/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=spring"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
